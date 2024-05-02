@@ -1,0 +1,21 @@
+/************************************
+        Règles générales
+************************************/
+* {
+    box-sizing: border-box;
+}
+
+img {
+    height: auto;
+    width: auto;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: "Roboto Slab", "sans-serif";
+    font-weight: 400;
+}
