@@ -19,3 +19,17 @@ h6 {
     font-family: "Roboto Slab", "sans-serif";
     font-weight: 400;
 }
+
+/***************************************
+           Entête du site
+****************************************/
+
+
+/***************************************
+           Menu de navigation
+****************************************/
+
+header nav {
+    display: flex;
+    flex-direction: row-reverse;
+}
