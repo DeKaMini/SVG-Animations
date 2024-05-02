@@ -30,6 +30,6 @@ h6 {
 ****************************************/
 
 header nav {
-    display: flex;
+    display: block;
     flex-direction: row-reverse;
 }
